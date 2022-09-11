@@ -1,2 +1,1 @@
 # exynos9820_beyond2lte_kernel_jas7o
-# exynos9820_beyond2lte_kernel_jas7o
